@@ -16,7 +16,7 @@
     "async": "^0.9.0",
     "debug": "^2.1.1",
     "loopback-connector": "1.x",
-    "mssql": "^2.1.0"
+    "mssql": "git://github.com/tuomastanner/node-mssql-2_5_0-sprocfix#master"
   },
   "devDependencies": {
     "bluebird": "^2.9.12",
